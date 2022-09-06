@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h3 align="center">A Engineer, Currently Learning and Exploring more Data structure and Algorithm <br> and Problem solving.</h3>
+<h3 align="center">An Engineer, Currently Learning and Exploring more Data structures and Algorithms <br> and working on my Problem solving skills.</h3>
 
 
  
